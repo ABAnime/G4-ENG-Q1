@@ -6,7 +6,7 @@
     <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
       <general>
         <title>
-          <langstring xml:lang="x-none">إنجليزي_الأردن_خامس (Q1)</langstring>
+          <langstring xml:lang="x-none">(Q1) G4</langstring>
         </title>
       </general>
       <lifecycle>
@@ -50,19 +50,18 @@
       </rights>
     </lom>
   </metadata>
-  <organizations default="إنجليزي_الأردن_خامس_(Q1)_ORG">
-    <organization identifier="إنجليزي_الأردن_خامس_(Q1)_ORG">
-      <title>إنجليزي_الأردن_خامس (Q1)</title>
+  <organizations default="(Q1)_G4_ORG">
+    <organization identifier="(Q1)_G4_ORG">
+      <title>(Q1) G4</title>
       <item identifier="المادة_مصر_أول_إعدادي_1_SCO" isvisible="true" identifierref="__67hhPv33nks_RES">
-        <title>إنجليزي_الأردن_خامس (Q1)</title>
+        <title>(Q1) G4</title>
       </item>
     </organization>
   </organizations>
   <resources>
     <resource identifier="__67hhPv33nks_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
       <file href="story_content/thumbnail.jpg" />
-      <file href="story_content/video_5aEA1wzV5aH_18_160_1920x1072.mp4" />
-      <file href="mobile/poster_5oClQ5x3IY7_video_5aEA1wzV5aH_18_160_1920x1072.jpg" />
+      <file href="mobile/5tTfuO5ycM0.png" />
       <file href="mobile/620cj2Bn55H.png" />
       <file href="mobile/5x84QpF8szK.png" />
       <file href="mobile/6kfdUYxntqF.png" />
@@ -76,6 +75,7 @@
       <file href="mobile/6c4r1Bw68HQ_B40_C40_RG.png" />
       <file href="mobile/63PolugLuaZ.jpg" />
       <file href="story_content/5bAEZkN7iRe_44100_160_0.mp3" />
+      <file href="story_content/6ZPwH4YZvSl_44100_160_0.mp3" />
       <file href="story_content/6qRxpsWGTDI_44100_160_0.mp3" />
       <file href="story_content/5aqmsypAcCh_44100_160_0.mp3" />
       <file href="mobile/5acePXrvBuf.gif" />
